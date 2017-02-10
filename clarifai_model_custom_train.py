@@ -2,7 +2,7 @@ from clarifai import rest
 from clarifai.rest import ClarifaiApp
 
 # authenticate
-app = ClarifaiApp("L3VAPszWS9okOhmLPn7laCfBzh162RZiahXKDQPx", "ieY1oToUXqQ9bw18cZpsnv3b_NbAkuGXowIH37ku")
+app = ClarifaiApp("CLIENT-ID", "CLIENT-SECRET")
 
 # urls of images to train the model with
 train_urls = [
