@@ -8,11 +8,11 @@ HOW TO SET UP
  - ./Miniconda3-latest-Linux-x86_64.sh
 5. Clone repository
  - git clone https://github.com/jaybutera/ais-demos.git
-6. Edit the bottom line of environment.yml to the location of your Miniconda3 environment directory
-7. Copy environment.yml from git repo to Miniconda3 directory
-8. Create Miniconda3 environment:
+6. Copy environment.yml from git repo to Miniconda3 directory
+ - Overwrite existing environment.yml file
+7. Create Miniconda3 environment:
  - conda env create -f environment.yml
-9. Activate your environment
+8. Activate your environment
  - source activate dnn
-10. Run the code
+9. Run the code
  - python <FILENAME>
