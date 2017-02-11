@@ -5,6 +5,7 @@ HOW TO SET UP
 sudo pip install clarifai
 ```
 
+## For Conda
 1. Install Python
 2. Install pip
 3. Add Python and pip to your PATH if you haven’t
