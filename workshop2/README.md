@@ -35,7 +35,7 @@ Install FFmpeg:
    - sudo apt-get dist-upgrade
    - sudo apt-get install ffmpeg
  
- FOR WINDOWS
+FOR WINDOWS
    - Download FFmpeg from here https://ffmpeg.zeranoe.com/builds/
    - Extract to some directory on your local machine
    - Add the files to your PATH
